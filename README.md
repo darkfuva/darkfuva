@@ -13,43 +13,67 @@ I care about **how systems behave**, not just how they look.
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-- React.js, Next.js
-- TypeScript, JavaScript (ES6+)
-- HTML, CSS, SCSS, Tailwind
-- Progressive Web Apps (PWA)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwindcss)
+![PWA](https://img.shields.io/badge/-PWA-000?style=for-the-badge)
+
+---
 
 ### 🧠 Architecture & Systems
-- Micro-frontend architecture
-- Multi-tenant platforms
-- Distributed systems debugging
-- API orchestration
-- Enterprise UI architecture
+![Micro Frontends](https://img.shields.io/badge/-Micro--Frontends-000?style=for-the-badge)
+![Multi Tenant](https://img.shields.io/badge/-Multi--Tenant-000?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/-Distributed--Systems-000?style=for-the-badge)
+![API Orchestration](https://img.shields.io/badge/-API--Orchestration-000?style=for-the-badge)
+![Enterprise UI](https://img.shields.io/badge/-Enterprise--UI-000?style=for-the-badge)
+
+---
 
 ### 🔄 State Management
-- Redux, Redux Toolkit, RTK Query
-- Zustand, MobX, NgRx, Context API
+![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux)
+![RTK Query](https://img.shields.io/badge/-RTK--Query-000?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/-Zustand-000?style=for-the-badge)
+![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge)
+![NgRx](https://img.shields.io/badge/-NgRx-000?style=for-the-badge)
+
+---
 
 ### 📊 UI & Visualization
-- Material UI, AgGrid
-- ChartJS, React Grid Layout
-- ESRI GIS integration
+![Material UI](https://img.shields.io/badge/-Material--UI-000?style=for-the-badge&logo=mui)
+![AgGrid](https://img.shields.io/badge/-AgGrid-000?style=for-the-badge)
+![ChartJS](https://img.shields.io/badge/-ChartJS-000?style=for-the-badge&logo=chartdotjs)
+![React Grid](https://img.shields.io/badge/-React--Grid--Layout-000?style=for-the-badge)
+![ESRI](https://img.shields.io/badge/-ESRI--GIS-000?style=for-the-badge)
+
+---
 
 ### ⚡ Performance & Web
-- IndexedDB, Service Workers
-- Caching strategies
-- SSR / CSR / ISR / SSG
-- Memory profiling
+![IndexedDB](https://img.shields.io/badge/-IndexedDB-000?style=for-the-badge)
+![Service Workers](https://img.shields.io/badge/-Service--Workers-000?style=for-the-badge)
+![Caching](https://img.shields.io/badge/-Caching-000?style=for-the-badge)
+![SSR](https://img.shields.io/badge/-SSR-000?style=for-the-badge)
+![ISR](https://img.shields.io/badge/-ISR-000?style=for-the-badge)
+![SSG](https://img.shields.io/badge/-SSG-000?style=for-the-badge)
+
+---
 
 ### 🧪 Testing & Tooling
-- Jest, React Testing Library
-- Git, JIRA, Azure Boards
-- Confluence, SonarQube
+![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest)
+![RTL](https://img.shields.io/badge/-React--Testing--Library-000?style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![JIRA](https://img.shields.io/badge/-JIRA-000?style=for-the-badge&logo=jira)
+![SonarQube](https://img.shields.io/badge/-SonarQube-000?style=for-the-badge&logo=sonarqube)
 
-### 🔧 Backend (Working Knowledge)
-- Node.js
-- ASP.NET, C#
-- REST APIs
-- Spring Boot (basic exposure)
+---
+
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-000?style=for-the-badge)
+![C#](https://img.shields.io/badge/-CSharp-000?style=for-the-badge&logo=csharp)
+![REST APIs](https://img.shields.io/badge/-REST--APIs-000?style=for-the-badge)
+
 
 ---
 
